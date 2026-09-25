@@ -1,7 +1,7 @@
 {
-  "version": "13.5.0",
-  "url": "https://irfansipai.github.io/fieldsync-updates/bundles/bundle-13.5.0.zip",
-  "checksum": "dd1a57df7bebc4552d20817ae5f8cb92de2b88952af08d26b20df805928ca720",
+  "version": "13.5.1",
+  "url": "https://irfansipai.github.io/fieldsync-updates/bundles/bundle-13.5.1.zip",
+  "checksum": "0520a5a4d1dcdf9169c63fbc62d534d07d46497c8b6abad6cc2de37607cdd48e",
   "persistent_assets": {
     "mediapipe/vision_wasm_internal.js": {
       "url": "https://irfansipai.github.io/fieldsync-updates/assets/mediapipe/vision_wasm_internal.js/e170ee67dd4e16c1",
